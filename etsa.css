@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(171, 97, 180);
+}
+h1{
+    color:rgb(255, 255, 255);
+    text-align:center;
+    font-size: 4rem;
+}
+
+p{
+    color:rgb(255, 255, 255);
+    text-align:center;
+    font-size: 2rem;
+}
