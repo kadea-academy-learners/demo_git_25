@@ -1,0 +1,66 @@
+    1  ssh-keygen -t rsa -b 4096 -C sylvain.tshiasuma2017@gmail.com
+    2  ls -al ~/.ssh
+    3  ssh-add ~/.ssh/id_rsa.pub
+    4  ssh -T git@github.com
+    5  ssh -T git@github.com
+    6  exit
+    7  f:
+    8  cd f:
+    9  clea
+   10  clear
+   11  cd CODE/
+   12  git clone git@github.com:emess-cd/emess-client.git
+   13  ls
+   14  f:
+   15  f/
+   16  cd f/
+   17  cd f:
+   18  ls
+   19  cd CODE/kadea/
+   20  ls
+   21  cd cohorte_25
+   22  cd cohorte_2025
+   23  sl
+   24  ls
+   25  cd git_demo/
+   26  ls -a
+   27  clear
+   28  ls -a
+   29  git branch
+   30  git push origin -u kadea
+   31  git push origin -u kadea
+   32  git fetch
+   33  git fetch
+   34  git pull
+   35  git init
+   36  git branch -m master main
+   37  git status
+   38  git add index.html 
+   39  git commit -m "init project"
+   40  git status
+   41  git add .
+   42  git commit -m "updated html"
+   43  git log --oneline
+   44  git branch kadea
+   45  git branch
+   46  git checkout kadea
+   47  git add .
+   48  git commit - "added JS feature"
+   49  git commit -m "added JS feature"
+   50  git checkout -b branch2
+   51  git checkout main
+   52  git checkout branch2
+   53  cls
+   54  clear
+   55  git branch -d main
+   56  git branch
+   57  git remote add origin git@github.com:kadea-academy-learners/demo_git_25.git
+   58  git remote -v
+   59  clear
+   60  git push -u origin kadea
+   61  git fetch
+   62  git pull
+   63  git pull raphael
+   64  git pull -u raphael
+   65  git pull origin raphael
+   66  history > try.txt
